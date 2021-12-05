@@ -1,1 +1,1 @@
-console.log(process.argv[4])
+console.log(process)
